@@ -1,0 +1,24 @@
+.userdetails p {
+    font-size: 24px;
+    margin-top: 25px;
+}
+
+.usertabs .mat-tab-labels .mat-tab-label.mat-tab-label-active {
+    background: #000;
+    color: #fff;
+}
+
+.usertabs .mat-tab-labels .mat-tab-label {
+    background: #aeaeae;
+    color: #000;
+}
+
+.usertabs .mat-tab-body {
+    border: 1px solid #959595;
+}
+
+.usertabs.mat-tab-group.mat-primary {
+}
+
+.mat-tab-labels { 
+}
